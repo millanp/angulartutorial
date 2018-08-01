@@ -1,5 +1,8 @@
 # Tutorial
 
+I am at this step in the tutorial:
+https://angular.io/tutorial/toh-pt5#add-dashboard-link-to-the-shell
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
 ## Development server
